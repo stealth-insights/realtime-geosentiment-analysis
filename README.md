@@ -4,6 +4,9 @@ The purpose of the application is to understand tweet geo-sentiment real-time. I
 
 Note that not all tweets are geo-enabled so we created a fake Latitude - Longitude coordinate for demonstration purposes.
 
+Our final real time dashboard looks like this:
+![Dashboard](https://github.com/stealth-insights/realtime-geosentiment-analysis/blob/master/other/dashboard.jpg)
+
 ## Requirements & Setup
 The applciation requires the user to install the following packages:
 - Zookeeper
@@ -41,6 +44,7 @@ We are following this pipeline:
 
 ### Start Grafana
 `https://localhost:3000/`
+
 
 ### Cleanup 
 `sh services/stop_services.sh`

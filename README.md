@@ -14,7 +14,14 @@ The applciation requires the user to install the following packages:
 
 I am installing these in MacOS using Homebrew, therefore the start_services.sh and stop_services.sh scripts reference Homebrew. 
 
+
+
 ## Steps 
+We are following the next pipeline.
+
+![Pipeline](https://github.com/stealth-insights/realtime-geosentiment-analysis/blob/master/other/Screen%20Shot%202019-07-04%20at%2019.19.13.png)
+
+
 ### Start Serices
 `sh services/start_services.sh`
 

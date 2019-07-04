@@ -17,9 +17,8 @@ I am installing these in MacOS using Homebrew, therefore the start_services.sh a
 
 
 ## Steps 
-We are following the next pipeline.
-
-![Pipeline](https://github.com/stealth-insights/realtime-geosentiment-analysis/blob/master/other/Screen%20Shot%202019-07-04%20at%2019.19.13.png)
+We are following this pipeline:
+![Pipeline](https://github.com/stealth-insights/realtime-geosentiment-analysis/blob/master/other/pipeline_image.png)
 
 
 ### Start Serices
